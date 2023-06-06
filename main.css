@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
 
 body {
-    background-color: #72ae9f; }
+    background-color: #FAFAFA; }
 
 ::selection {
   color: #ffffff;
@@ -16,29 +16,34 @@ body {
  height: auto;
 }
 
-/* outras divs */
-.intro {
-position: absolute;
-width: 90%;
-height: 100%;
-right: 30px;
-left: 30px;
-top: 101px;
-display: block;
-}
-
-img.botaoAR {
-  height: 75px;
-}
-
-}
-
-.footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+/* Add a black background color to the top navigation */
+.topnav {
   background-color: transparent;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: #333333;
   text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  text-decoration: underline;
+  text-decoration-color: #72ae9f;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
 }
 
 /* destaques textuais */
