@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+
+body {
+    background-color: #72ae9f; }
+
+::selection {
+  color: #ffffff;
+    background: #AEC399; }
+
+@media screen and (min-width: 480px) {
+
+/* div central */
+
+.main {
+ width:100%;
+ height: auto;
+}
+
+/* outras divs */
+.intro {
+position: absolute;
+width: 90%;
+height: 100%;
+right: 30px;
+left: 30px;
+top: 101px;
+display: block;
+}
+
+img.botaoAR {
+  height: 75px;
+}
+
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: transparent;
+  text-align: center;
+}
+
+/* destaques textuais */
+    
+h1 {
+    font-family: 'Space Mono', monospace;
+    color: #ffffff;
+    font-size: 43px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'Space Mono', monospace;
+    color: #ffffff;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: 'Space Mono', monospace;
+    font-size: 12px;
+    color: #AEC399;
+}
+
+h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* parágrafos e underline */
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+u { 
+    color: #AEC399;
+}
+
+
+ 
+/* links */
+    
+    a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #AEC399;
+}
+
+a:active {
+  text-decoration: none;
+}
