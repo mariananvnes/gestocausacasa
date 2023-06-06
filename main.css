@@ -17,7 +17,6 @@ body {
 .navbar {
 background-color: #FAFAFA;
 top: 0;
-width: 100%;
 padding: 20px;
 }
     
@@ -29,7 +28,7 @@ padding: 20px;
     .quemsomos h1 {
             font-family: 'IBM Plex Sans', sans-serif;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 20px;
     text-transform: uppercase;
     text-decoration: underline;
     text-decoration-color: #edbf3a;
@@ -38,9 +37,7 @@ padding: 20px;
     .quemsomos p {
     font-family: 'IBM Plex Sans', sans-serif;
     color: #ffffff;
-    font-size: 12px;
-    text-align: justify;
-    text-justify: inter-word;
+    font-size: 14px;
     }
     
     .problemasolucao {
@@ -64,7 +61,7 @@ padding: 20px;
     .problemasolucao h1 {
     font-family: 'IBM Plex Sans', sans-serif;
     color: #d47574;
-    font-size: 18px;
+    font-size: 20px;
     text-transform: uppercase;
     text-decoration: underline;
     text-decoration-color: #edbf3a;
@@ -73,17 +70,13 @@ padding: 20px;
     .problemasolucao p {
     font-family: 'IBM Plex Sans', sans-serif;
     color: #333333;
-    font-size: 12px;
-    text-align: justify;
-    text-justify: inter-word;
+    font-size: 14px;
     }
     
     .problemasolucao ul {
     font-family: 'IBM Plex Sans', sans-serif;
     color: #333333;
-    font-size: 12px;
-    text-align: justify;
-    text-justify: inter-word;
+    font-size: 14px;
     }
     
     
@@ -95,7 +88,7 @@ padding: 20px;
     .contributo h1 {
     font-family: 'IBM Plex Sans', sans-serif;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 20px;
     text-transform: uppercase;
     text-decoration: underline;
     text-decoration-color: #edbf3a;
@@ -103,7 +96,7 @@ padding: 20px;
     .contributo p {
     font-family: 'IBM Plex Sans', sans-serif;
     color: #ffffff;
-    font-size: 12px;
+    font-size: 14px;
     text-align: justify;
     text-justify: inter-word;
     }
@@ -114,6 +107,6 @@ padding: 20px;
 h1 {
     font-family: 'IBM Plex Sans', sans-serif;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 20px;
     text-transform: uppercase;
 }
