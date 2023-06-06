@@ -5,9 +5,7 @@ body {
 
 ::selection {
   color: #ffffff;
-    background: #AEC399; }
-
-@media screen and (min-width: 480px) {
+    background: #edbf3a; }
 
 /* div central */
 
