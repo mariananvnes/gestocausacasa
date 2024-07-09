@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'gothamultra';
+    src: url('https://github.com/mariananvnes/gestocausacasa/blob/e9e351adaeba79aa08c6b5cb7dc159427b24c9ea/gotham-ultra-webfont.woff2') format('woff2'),
+         url('https://github.com/mariananvnes/gestocausacasa/blob/e9e351adaeba79aa08c6b5cb7dc159427b24c9ea/gotham-ultra-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'gothamcond_ultra';
+    src: url('https://github.com/mariananvnes/gestocausacasa/blob/e9e351adaeba79aa08c6b5cb7dc159427b24c9ea/gothamcond-ultra-webfont.woff2') format('woff2'),
+         url('https://github.com/mariananvnes/gestocausacasa/blob/e9e351adaeba79aa08c6b5cb7dc159427b24c9ea/gothamcond-ultra-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
